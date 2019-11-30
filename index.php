@@ -5,52 +5,15 @@ require 'headernolog.php';
 
 ?>
 
-  <img id="bg-picture" src="/assets/background-wood.jpg" />
+  <!--img id="bg-picture" src="/assets/background-wood.jpg" /-->
         <div class="container containerMain">
           <h1>Recherche Bundesarchiv Berlin</h1>
           <p id="hero-text" class="text-center">
-          Folgen Sie den Spuren Ihrer eigenen Familie oder suchen für wissenschaftliche Projekte nach historischen Personen, Orten und Ereignissen? Ihre Recherche im Bundesarchiv Berlin bringt Licht ins Dunkel. Für den erhellenden Streifzug durch die Geschichte ist wichtig, relevantes Material für die eigenen Fragestellungen zu finden und Informationen zu sammeln.
+          Suchen Sie nach Spuren Ihrer Familiengeschichte? Recherchieren Sie nach historischen Personen, Orten und Ereignissen?
         </p>
 
         <!-- Dienstleistungen -->
-        <div class="container leistungen">
-          <div class="row" style="padding-top:30px;">
-                  <div class="col-sm text-center personen">
-                    <div class="card">
-                        <a href="/personenrecherche"><img class="card-img-top" src="/assets/Personenrecherche-Bundesarchiv-Berlin.jpg" alt="Personenreche Bundesarchiv Berlin"></a>
-                        <div class="card-body">
-                          <h5 class="card-title">Personenrecherche</h5>
-                          <p class="card-text">WER<br></p>
-                          <!--a href="#" class="btn btn-primary">Mehr Informationen</a-->
-                        </div>
-                    </div>
-                  </div>
-                  <div class="col-sm text-center personen">
-                    <div class="card">
-                        <!--img class="card-img-top" src="/assets/Ortsrecherche-Bundesarchiv-Berlin.jpg" alt="Ortsrecherche Bundesarchiv Berlin"-->
-                        <video class="card-img-top" autoplay loop muted>
-                              <source src="/assets/ortsrecherche.mp4" type="video/mp4">
-
-                            Your browser does not support the video tag.
-                        </video>
-                        <div class="card-body">
-                          <h5 class="card-title">Ortsrecherche</h5>
-                          <p class="card-text">WO</p>
-                        </div>
-                    </div>
-                  </div>
-                  <div class="col-sm text-center personen">
-                    <div class="card">
-                        <img class="card-img-top" src="/assets/Sachrecherche-Bundesarchiv-Berlin.jpg" alt="Sachreche Bundesarchiv Berlin">
-                        <div class="card-body">
-                          <h5 class="card-title">Ereignisrecherche</h5>
-                          <p class="card-text">WAS</p>
-
-                          <!--a href="#" class="btn btn-primary">Mehr Informationen</a-->
-                        </div>
-                    </div>
-                  </div>
-        </div>
+        <div>
       </div>
 <!--ContainerMain End -->
 
